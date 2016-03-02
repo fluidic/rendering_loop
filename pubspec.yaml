@@ -1,0 +1,14 @@
+name: rendering_loop
+description: Utilities to render DOM in phases.
+version: 0.1.0
+author: Fluidic Team <dev@fluidic.io>
+homepage: https://github.com/fluidic/rendering_loop
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+#dependencies:
+#  lib_name: any
+
+dev_dependencies:
+  test: '>=0.12.0 <0.13.0'
